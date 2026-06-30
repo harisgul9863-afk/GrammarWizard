@@ -1,0 +1,6 @@
+{
+  "name": "Grammar Wizard MCQ Generator",
+  "description": "Standalone English Grammar MCQ generator native Android application source code and interactive simulator using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

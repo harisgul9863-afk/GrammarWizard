@@ -1,0 +1,20 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Generated Android build environments (when run locally)
+.gradle/
+app/
+gradle/
+settings.gradle.kts
+build.gradle.kts
+gradle.properties
+gradlew
+gradlew.bat
+local.properties
+
